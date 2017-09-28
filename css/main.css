@@ -279,13 +279,26 @@ main > section {
          -o-transition: all 0.8s ease 0s;
             transition: all 0.8s ease 0s;
 
-    background-color: rgba(0,0,0,.4);
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+   /* background-image: url("../img/marvel_logo.jpg");
+
+    background-size: 100%;
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+   /* -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+   /* -o-background-size: 100%; /* Opera 9.6+ */
+
+   /* background-position: right bottom; /* Положение фона */
+   /* background-repeat: no-repeat; /* Отменяем повторение фона */
+    background-color: rgba(222, 16, 16, 0.36);
+    box-shadow: 0 1px 4px rgba(222, 16, 16, 0);
     padding: 5px 0;
 }
 
 #navigation.animated-header {
     padding: 20px 0;
+}
+
+.navbar-inverse .navbar-brand{
+    color: #ff0000;
 }
 
 h1.navbar-brand {
