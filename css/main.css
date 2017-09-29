@@ -65,7 +65,7 @@ main > section {
 }
 
 .btn-blue {
-    background-color: rgba(0,158,227, 0.78);
+    background-color: rgba(227, 0, 0, 0.8);
     box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.15) inset;
     padding: 15px 55px;
     color: #fff;
@@ -355,7 +355,7 @@ h1.navbar-brand {
 }
 
 .slide-caption {
-    color: #fff;
+    color: rgb(236, 134, 3);
     display: table;
     height: 100%;
     left: 0;
@@ -525,7 +525,7 @@ h1.navbar-brand {
 ==================================================================*/
 
 #about {
-    background-color: #009EE3;
+    background-color: #ff0000;
     color: #fff;
 }
 
@@ -1032,12 +1032,12 @@ textarea.form-control {
 
 #footer {
     background-color: #2E2E2E;
-    padding: 70px 0;
+    padding: 40px 0;
     color: #fff;
 }
 
 .footer-content {
-    width: 390px;
+    width: 750px;
     margin: 0 auto;
 }
 
@@ -1138,7 +1138,7 @@ textarea.form-control {
 
 .footer-content > p {
     color: #ababab;
-    font-size: 12px;
+    font-size: 20px;
 }
 
 
